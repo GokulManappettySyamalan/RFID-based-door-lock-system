@@ -3,7 +3,11 @@ This is a simple project which can be implemented on security door  or for any s
  Connections :
  
  Working Video Link (Its not detailed just a demo) : https://youtu.be/oFBnLb1kVkU
- **LCD_I2C CONNECTIONS**
+
+
+
+
+**LCD_I2C CONNECTIONS**
  
   SCL - PIN 21 
   SDA - PIN 20
